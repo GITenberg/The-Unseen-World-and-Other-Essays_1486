@@ -1,0 +1,33 @@
+_repo: The-Unseen-World-and-Other-Essays_1486
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Green, Edmund Fisk
+    - Fisk, John
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+description: ''
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AC'
+- !lcsh 'American essays'
+- GITenberg
+tableOfContents: The unseen world -- "The to-morrow of death" -- The Jesus of history
+  -- The Christ of dogma -- A word about miracles -- Draper on science and religion
+  -- Nathan the Wise -- Historical difficulties -- The famine of 1770 in Bengal --
+  Spain and the Netherlands -- Longfellow's Dante -- Paine's "St. Peter" -- A philosophy
+  of art -- Athenian and American life.
+title: The Unseen World, and Other Essays
+url: http://www.gutenberg.org/ebooks/1486
